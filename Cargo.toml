@@ -1,0 +1,13 @@
+[package]
+name = "estradiol"
+version = "0.0.1"
+authors = ["Rebecca Turner <rbt@sent.as>", "Kat Spiers <kathryn@spiers.me>"]
+description = "takes the blue pill"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/9999years/estradiol.rs"
+license = "CC0-1.0"
+keywords = ["trans"]
+categories = ["command-line-utilities"]
+
+[dependencies]
